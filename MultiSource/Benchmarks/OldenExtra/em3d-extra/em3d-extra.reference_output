@@ -1,0 +1,12 @@
+Hello world--Doing em3d with args 1024 850 125 1
+making tables 
+making neighbors
+updating from and coeffs
+filling from fields
+localizing coeffs, from_nodes
+cleanup for return now
+Clearing NumMisses
+Returning
+nonlocals = 0
+percentcheck=3715147,numlocal=3715147
+exit 0

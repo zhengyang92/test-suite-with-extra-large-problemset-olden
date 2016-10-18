@@ -1,0 +1,8 @@
+set(PROG em3d-extra)
+list(APPEND CPPFLAGS -DTORONTO)
+if(DEFINED SMALL_PROBLEM_SIZE)
+  set(RUN_OPTIONS 256 250 35)
+else()
+  set(RUN_OPTIONS 1024 850 125)
+endif()
+llvm_multisource()

@@ -1,0 +1,15 @@
+max_level=10  max_time=50  seed=2 
+
+
+    Columbian Health Care Simulator
+
+Working...
+0
+Getting Results
+Done.
+
+# of people treated:              1420985.000000 people
+Average length of stay:           20.62 time units
+Average # of hospitals visited:   1.069054 hospitals
+
+exit 0
