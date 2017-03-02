@@ -10,6 +10,7 @@ add_definitions(
   -DPROJ_VALIDATORS
   -DXML_USE_NATIVE_TRANSCODER
   -DXML_USE_INMEM_MESSAGELOADER
+  -include cstdlib -include cstring
 )
 include_directories(
   ${CMAKE_CURRENT_SOURCE_DIR}
